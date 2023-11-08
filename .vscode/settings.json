@@ -1,0 +1,45 @@
+{
+  "java.project.referencedLibraries": {
+    "include": [
+      "lib/**/*.jar",
+      "d:\\ACC SOURCE CODE\\jsoup-1.16.1.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-api-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-api-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-chrome-driver-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-chrome-driver-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-chromium-driver-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-chromium-driver-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-devtools-v85-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-devtools-v85-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-devtools-v112-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-devtools-v112-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-devtools-v113-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-devtools-v113-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-devtools-v114-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-devtools-v114-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-edge-driver-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-edge-driver-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-firefox-driver-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-firefox-driver-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-http-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-http-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-ie-driver-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-ie-driver-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-java-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-java-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-json-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-json-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-manager-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-manager-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-remote-driver-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-remote-driver-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-safari-driver-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-safari-driver-4.10.0-sources.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-support-4.10.0.jar",
+      "d:\\ACC SOURCE CODE\\selenium-java-4.10.0\\selenium-support-4.10.0-sources.jar"
+    ],
+    "exclude": [
+      "c:\\Users\\srava\\Documents\\ACC\\selenium-java-4.8.1\\lib\\async-http-client-2.12.3.jar"
+    ]
+  }
+}
